@@ -1,0 +1,12 @@
+﻿  Calculate.cpp
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(40,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(76,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(76,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(81,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(81,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(86,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(86,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(91,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(91,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(76): error C4700: uninitialized local variable 'secondnumber' used
+C:\Users\Yigit\source\repos\Calculate\Calculate\Calculate.cpp(76): error C4700: uninitialized local variable 'firstnumber' used
